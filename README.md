@@ -12,3 +12,10 @@ Link - https://app.powerbi.com/links/T3CBHIhuq3?ctid=bc5b2879-3fac-469a-b8c4-994
 **Email Marketing Data Aalysis**
 
 Link - https://app.powerbi.com/links/4QZwAD6vqT?ctid=bc5b2879-3fac-469a-b8c4-994705bc09d7&pbi_source=linkShare
+
+
+## Project 3
+
+**Netflix Data Analysis**
+
+Link - https://app.powerbi.com/links/cgKbTfSISo?ctid=bc5b2879-3fac-469a-b8c4-994705bc09d7&pbi_source=linkShare
